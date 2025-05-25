@@ -1,5 +1,4 @@
 # ADyePortfolio
-# ADyePortfolio
 <h1 align="center">Hi 👋, I'm Angelina Dye</h1>
 <h3 align="center">I'm a recently Certified Data Analyst, and I have a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote position.</h3>
 
