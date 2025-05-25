@@ -1,16 +1,24 @@
-<h1 align="left"; font-family: "Garamond", "Serif"; font-size: "36px"; color: "#32424a">Angelina Dye</h1>
-<p align="left">A recently Certified Data Analyst, and I have a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote position.</h3>
+<h1 align="left"; font-family= "Georgia">Angelina Dye</h1>
 
-- 👨‍💻 Portfolio: https://github.com/adye7/ADyePortfolio.git
-- 💼 Resume: https://github.com/adye7/ADyePortfolio.git
+<p1 align="left">A recently Certified Data Analyst, and I have a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.</p1>
 
-<p2 align="left"> How to reach me:
--   **📬  5 Elk Drive     
-    New Bremen, OH 45869**
--   **📧  angelinadye7@gmail.com**
--   **📱  419-790-3496**    
--   **<a href="https://linkedin.com/in/angelina-dye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angelina-dye" height="20" width="30" /></a>**
-</p>
+👨‍💻 Portfolio: https://github.com/adye7/ADyePortfolio.git
+💼 Resume: https://github.com/adye7/ADyePortfolio.git
+
+<p2 align="left"> **How to reach me:**    
+📬  5 Elk Drive, New Bremen, OH 45869    
+📧  angelinadye7@gmail.com    
+📱  419-790-3496      
+<a href="https://www.linkedin.com/in/angelina-dye" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+</a>
+<a href="https://github.com/adye7" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+</a>
+<a href='https://www.coursera.org/learner/angelina-dye'>
+    <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera
+</a>
+</p2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
