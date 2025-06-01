@@ -1,8 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+  font-family: Courier New, monospace;
+}
+</style>
+</head>
+<body>
+
+<h1>Lorem ipsum dolor sit amet</h1>
+
+<p>Lorem ipsum dolor sit amet.</p>
+<p>0 1 2 3 4 5 6 7 8 9</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
 <h1 align="left"; font-family= "Georgia">Angelina Dye</h1>
 
 <p1 align="left">A recently Certified Data Analyst, and I have a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.</p1>
 
 👨‍💻 Portfolio: https://github.com/adye7/ADyePortfolio.git
+<br>
 💼 Resume: https://github.com/adye7/ADyePortfolio.git
 
 <p2 align="left"> **How to reach me:**    
