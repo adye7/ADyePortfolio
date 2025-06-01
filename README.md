@@ -1,39 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style> 
-body {
-  font-family: Courier New, monospace;
-}
-</style>
-</head>
-<body>
-
-<h1>Lorem ipsum dolor sit amet</h1>
-
-<p>Lorem ipsum dolor sit amet.</p>
-<p>0 1 2 3 4 5 6 7 8 9</p>
-
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-<h1 align="left"; font-family= "Georgia">Angelina Dye</h1>
-
+<h1 align="center"; font-size: "50px"; font-family: "Garamond", "serif">Angelina Dye</h1>
 <p1 align="left">A recently Certified Data Analyst, and I have a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.</p1>
-
+}
 👨‍💻 Portfolio: https://github.com/adye7/ADyePortfolio.git
 <br>
 💼 Resume: https://github.com/adye7/ADyePortfolio.git
 
-<p2 align="left"> **How to reach me:**    
+<p3 align="left"> **How to reach me:**    
 📬  5 Elk Drive, New Bremen, OH 45869    
 📧  angelinadye7@gmail.com    
 📱  419-790-3496      
@@ -47,7 +19,7 @@ body {
     <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera
 </a>
 </p2>
-
+</body>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
