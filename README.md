@@ -7,17 +7,30 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 * :open_book: README
 * :briefcase: My Resume
 * :mouse: Research Paper Sample (Sex and Spatial Location Memory)
-* :chart_with_upwards_trend: IBM Capstone Project 
+* :chart_with_upwards_trend: IBM Capstone Project
 
 ## Knowledgebase: Badges
 
 
 ## Skillset:
-#### <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" align="center"/> Python 
-                        | Libraries     |               |
-                        | ------------- | ------------- |
-                        | Content Cell  | Content Cell  |
-                        | Content Cell  | Content Cell  |</a>     
+<img src="Images/Python.png" height="55" align="left"/>
+<div style="text-align: justify; text-justify: stretch;"> Libraries: </div> <div style="display: flex; align-items: flex-start"> <img src="Images/Libraries.png" alt="Image 1" height="65"> </div>
+
+<img src="Images/SQL.png" height="25" align="left"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/SQL Icons.png" alt="Image 3" height="55"> </div>
+
+<img src="Images/MS365.png" height="30" align="left"/>  
+<div style-"display: flex; align-items: flex-start"> <img src="Images/MS Icons.png" alt="Image 3" height="66"> </div>
+
+<img src="Images/Google Workspace.png" height="30" align="left"/>
+<div style="text-align: justify; text-justify: inter-word;"> <img src="Images/Google Icons.png" alt="Image 4" height="80"> </div>
+
+<img src="Images/IBM.png" height="30" align="left"/>
+<div style="text-align: justify; text-justify: inter-word;"> <img src="Images/IBM Icons.png" alt="Image 4" height="50"> </div>
+
+
+ 
+ 
+ 
 
 
 
@@ -32,23 +45,35 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 
 
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adye7&show_icons=true&locale=en&layout=compact" alt="adye7" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
