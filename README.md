@@ -52,8 +52,7 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 <img src="Images/Google Workspace.png" height="30" align="left"/>
 <div style="text-align:justify; text-justify: inter-word;"> <img src="Images/Google Icons.png" alt="Image 4" height="80"> </div>
 
-<img src="Images/IBM.png" height="30" align="left"/>
-<div style="text-align:justify; text-justify: inter-word;"> <img src="Images/IBM Icons.png" alt="Image 5" height="50"> </div>
+<img src="Images/IBMIcons.png" height="50" align="left"/>
 
 
 
