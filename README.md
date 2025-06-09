@@ -108,7 +108,7 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
   </tr>
   <tr>
    <td style="vertical-align: middle; padding: 0;">
-     <img src="Images/VideoCon.png" height="100">
+     <img src="Images/VideoCon.png" height="70">
    </td>
    <td style="vertical-align: middle; padding: 0;">
      <img src="Images/Video Conference Icons.png" height "80" width= "250">
