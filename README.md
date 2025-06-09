@@ -3,12 +3,12 @@
 A recently Certified Data Analyst, with a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python,       Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.   
 
 ## :file_folder: My Portfolio Includes:
-<div id="links">
-* <a href="ADyePortfolio/README.md"</a> :open_book: README </br>
-* <a href="ADyePortfolio/ADyeResume.pdf"</a> :briefcase: My Resume </br>
-* <a href="ADyePortfolio/Sex and Spatial Location Memory.pdf"</a> :mouse: Research Paper Sample (Sex and Spatial Location Memory) </br>
-* <a href="ADyePortfolio/Final-IBM-Capstone-Project-ADye-12-9.pdf"</a> :chart_with_upwards_trend: IBM Capstone Project </br>
-  </div>
+<div id="links"> 
+* <a href="ADyePortfolio/README.md"> :open_book: README </a> </br>
+* <a href="ADyePortfolio/ADyeResume.pdf"> :briefcase: My Resume </a> </br>
+* <a href="ADyePortfolio/Sex and Spatial Location Memory.pdf"> :mouse: Research Paper Sample (Sex and Spatial Location Memory) </a> </br>
+* <a href="ADyePortfolio/Final-IBM-Capstone-Project-ADye-12-9.pdf"> :chart_with_upwards_trend: IBM Capstone Project </a> </br>
+</div>
 
 ### Knowledgebase:
 #### Education
@@ -101,10 +101,10 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
   </tr>
   <tr>
    <td style="vertical-align: middle; padding: 0;">
-     <img src="Images/Other.png" height="100" width="200">
+     <img src="Images/Other.png" height="90" width="160">
    </td>
    <td style="vertical-align: middle; padding: 0;">
-     <img src="Images/Other Icons.png" height "150" width= "300">
+     <img src="Images/Other Icons.png" height "180" width= "320">
    </td>
   </tr>
 </table>
