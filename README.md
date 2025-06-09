@@ -44,8 +44,7 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 <img src="Images/Python.png" height="55" align="left" vertical-align= "middle" />
 <div style="vertical-align:middle;"> Libraries: </div> <div style="vertical-align:middle;"> <img src="Images/Libraries.png" alt="Image 1" height="65"> </div>
 
-<img src="Images/SQLIcons.png" height="50" align="left"/>
-</br>
+<img src="Images/SQLIcons.png" height="50" align="left"/> </br>  &nbsp;
 
 <img src="Images/MS365.png" height="30" align="left"/>  
 <div style="display:flex; align-items: flex-start"> <img src="Images/MS Icons.png" alt="Image 3" height="66"> </div>
