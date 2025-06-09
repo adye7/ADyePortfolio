@@ -3,11 +3,12 @@
 A recently Certified Data Analyst, with a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python,       Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.   
 
 ## :file_folder: My Portfolio Includes:
-
-* :open_book: README
-* :briefcase: My Resume
-* :mouse: Research Paper Sample (Sex and Spatial Location Memory)
-* :chart_with_upwards_trend: IBM Capstone Project
+<div id="links">
+* <a href="ADyePortfolio/README.md"</a> :open_book: README </br>
+* <a href="ADyePortfolio/ADyeResume.pdf"</a> :briefcase: My Resume </br>
+* <a href="ADyePortfolio/Sex and Spatial Location Memory.pdf"</a> :mouse: Research Paper Sample (Sex and Spatial Location Memory) </br>
+* <a href="ADyePortfolio/Final-IBM-Capstone-Project-ADye-12-9.pdf"</a> :chart_with_upwards_trend: IBM Capstone Project </br>
+  </div>
 
 ### Knowledgebase:
 #### Education
@@ -40,26 +41,10 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
   </a>
 
 #### Skillset
-
-<img src="Images/Python.png" height="55" align="left" vertical-align= "middle" />
-<div style="vertical-align:middle;"> Libraries: </div> <div style="vertical-align:middle;"> <img src="Images/Libraries.png" alt="Image 1" height="65"> </div>
-
-<img src="Images/SQLIcons.png" height="50" align="left"/> </br>  &nbsp;
-
-<img src="Images/MS365.png" height="30" align="left"/>  
-<div style="display:flex; align-items: flex-start"> <img src="Images/MS Icons.png" alt="Image 3" height="66"> </div>
-
-<img src="Images/Google Workspace.png" height="30" align="left"/>
-<div style="text-align:justify; text-justify: inter-word;"> <img src="Images/Google Icons.png" alt="Image 4" height="80"> </div>
-
-<img src="Images/IBMIcons.png" height="50" align="left"/>
-
-
-#### Table Skillset
 <div style="text-align: center;"><table style="display: inline-block; margin: 0; padding: 0;">
   <tr>
    <td style="vertical-align: middle; padding: 0;">
-     <img src="Images/Python.png" height="50 width="50"> 
+     <img src="Images/Python.png" height="60 width="100"> 
    </td>
    <td style="vertical-align: middle; padding: 0;">
     <img src="Images/Libraries.png" height="70 width="200">
