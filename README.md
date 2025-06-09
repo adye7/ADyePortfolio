@@ -17,7 +17,7 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
   <tr>
     <td style="vertical-align: middle;">
       <a href="https://www.rider.edu">
-       <img src="Images/Rider University.png" height="50 width="50"> 
+       <img src="Images/Rider University.png" height="75 width="75"> 
       </a> 
     </td>
     <td style="vertical-align: middle;">
@@ -109,53 +109,11 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
   </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## How to reach me:
+### How to reach me:
 📬  5 Elk Drive, New Bremen, OH 45869    
 📧  angelinadye7@gmail.com    
 📱  419-790-3496
-<div id="badges">
-  <a href="https://www.linkedin.com/in/angelina-dye">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn"
-  </a>
+<div id="badges"> <a href="https://www.linkedin.com/in/angelina-dye"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn"</a>
   <a href="[your-youtube-URL](https://github.com/adye7/ADyePortfolio.git)">
     <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github"
   </a>
