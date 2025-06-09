@@ -98,8 +98,7 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
      <img src="Images/Google Icons.png" height "200" width= "550">
    </td>
   </tr>
-   </tr>
-   <tr>
+  <tr>
    <td style="vertical-align: middle; padding: 0;">
      <img src="Images/GAI.jpg" height="90">
    </td>
@@ -113,6 +112,14 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
    </td>
    <td style="vertical-align: middle; padding: 0;">
      <img src="Images/Video Conference Icons.png" height "80" width= "250">
+   </td>
+  </tr>
+  <tr>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/Other.png" height="100" width="200">
+   </td>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/Other Icons.png" height "150" width= "300">
    </td>
   </tr>
 </table>
