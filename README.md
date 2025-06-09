@@ -9,32 +9,35 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 * :mouse: Research Paper Sample (Sex and Spatial Location Memory)
 * :chart_with_upwards_trend: IBM Capstone Project
 
-## Knowledgebase: Badges
+### Knowledgebase:
+#### Education
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://www.rider.edu">
+       <img src="Images/Rider University.png" height="50 width="50"> 
+      </a> 
+    </td>
+    <td style="vertical-align: middle;">
+      Bachelor's Degree
+    </td>
+   <td style="vertical-align: middle;">
+     <a href="https://www.coursera.org/learner/angelina-dye">
+      <img src="Images/Coursera.png" height="50 width="50">
+     </a>
+   </td>
+   <td style="vertical-align: middle;">
+     IBM Data Analyst Professional Certification
+   </td>
+  </tr>
+</table>
 
 
-## Skillset:
-<img src="Images/Python.png" height="55" align="left"/>
-<div style="text-align: justify; text-justify: stretch;"> Libraries: </div> <div style="display: flex; align-items: flex-start"> <img src="Images/Libraries.png" alt="Image 1" height="65"> </div>
-
-<img src="Images/SQL.png" height="25" align="left"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/SQL Icons.png" alt="Image 3" height="55"> </div>
-
-<img src="Images/MS365.png" height="30" align="left"/>  
-<div style-"display: flex; align-items: flex-start"> <img src="Images/MS Icons.png" alt="Image 3" height="66"> </div>
-
-<img src="Images/Google Workspace.png" height="30" align="left"/>
-<div style="text-align: justify; text-justify: inter-word;"> <img src="Images/Google Icons.png" alt="Image 4" height="80"> </div>
-
-<img src="Images/IBM.png" height="30" align="left"/>
-<div style="text-align: justify; text-justify: inter-word;"> <img src="Images/IBM Icons.png" alt="Image 4" height="50"> </div>
-
-
- 
- 
- 
 
 
 
-
+ &nbsp;
 
 
 
