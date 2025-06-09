@@ -1,9 +1,9 @@
-<img align="center" alt="Heading" width="800" height="200" src="Images/Flock - Copy - Copy.JPG"/>
+# <img align="center" alt="Heading" width="800" height="200" src="Images/Flock - Copy - Copy.JPG"/>
 
 A recently Certified Data Analyst, with a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.   
 
 
-# :file_folder: My Portfolio Includes:
+## :file_folder: My Portfolio Includes:
 <div id="links"> 
 * <a href="README.md"> :open_book: README </a> </br>
 * <a href="ADyeResume.pdf"> :briefcase: My Resume </a> </br>
@@ -109,9 +109,6 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
    </td>
   </tr>
 </table>
-
-<img align="center" alt="Head2" width="800" src="![HeronDuckBkgd](https://github.com/user-attachments/assets/da600f96-ea6a-4823-9dbf-d1b3e488fa44)"/>
-
 
 ### How to reach me:
 📬  5 Elk Drive, New Bremen, OH 45869    
