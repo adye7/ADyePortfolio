@@ -55,7 +55,67 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 <img src="Images/IBMIcons.png" height="50" align="left"/>
 
 
-
+#### Table Skillset
+<div style="text-align: center;"><table style="display: inline-block; margin: 0; padding: 0;">
+  <tr>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/Python.png" height="50 width="50"> 
+   </td>
+   <td style="vertical-align: middle; padding: 0;">
+    <img src="Images/Libraries.png" height="70 width="200">
+   </td>
+  </tr>
+</table><div style="text-align: center;"><table style="display: inline-block; margin: 0; padding: 0;">
+  <tr>
+   <td style="vertical-align: middle; padding: 0;">
+    <img src="Images/SQL.png" height="30">
+   </td>
+   <td style="vertical-align: middle; padding: 0;">
+    <img src="Images/SQL Icons.png" height "100" width= "300">
+   </td>
+  </tr>
+  <tr>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/MS365.png" height="30">
+   </td>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/MS Icons.png" height "500" width= "785">
+   </td>
+  </tr>
+   <tr>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/IBM.png" height="30">
+   </td>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/IBM Icons.png" height "300" width= "600">
+   </td>
+  </tr>
+   <tr>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/Google Workspace.png" height="30">
+   </td>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/Google Icons.png" height "200" width= "550">
+   </td>
+  </tr>
+   </tr>
+   <tr>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/GAI.jpg" height="90">
+   </td>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/AI Icons.png" height "200" width= "700">
+   </td>
+  </tr>
+  <tr>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/VideoCon.png" height="100">
+   </td>
+   <td style="vertical-align: middle; padding: 0;">
+     <img src="Images/Video Conference Icons.png" height "80" width= "250">
+   </td>
+  </tr>
+</table>
 
 
 
