@@ -4,10 +4,10 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 
 ## :file_folder: My Portfolio Includes:
 <div id="links"> 
-* <a href="ADyePortfolio/README.md"> :open_book: README </a> </br>
-* <a href="ADyePortfolio/ADyeResume.pdf"> :briefcase: My Resume </a> </br>
-* <a href="ADyePortfolio/Sex and Spatial Location Memory.pdf"> :mouse: Research Paper Sample (Sex and Spatial Location Memory) </a> </br>
-* <a href="ADyePortfolio/Final-IBM-Capstone-Project-ADye-12-9.pdf"> :chart_with_upwards_trend: IBM Capstone Project </a> </br>
+* <a href="README.md"> :open_book: README </a> </br>
+* <a href="ADyeResume.pdf"> :briefcase: My Resume </a> </br>
+* <a href="Sex and Spatial Location Memory.pdf"> :mouse: Research Paper Sample (Sex and Spatial Location Memory) </a> </br>
+* <a href="Final-IBM-Capstone-Project-ADye-12-9.pdf"> :chart_with_upwards_trend: IBM Capstone Project </a> </br>
 </div>
 
 ### Knowledgebase:
