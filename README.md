@@ -132,5 +132,5 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
     <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera"
   </a>
 </div>
-<div align="right"> <img scr="Images/Ohio_Map.jpg"> </div>
+<div align="right" img scr="Images/Ohio_Map.jpg"> </div>
 
