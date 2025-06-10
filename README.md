@@ -109,28 +109,14 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
   </tr>
 </table>
 
-<img align="left" alt="Heading" width="200" height="200" src="Images/Heron.gif"/>
-</br>
-</br>
 
-<div align= "center"> Where To Reach Me: </br>
-📬  5 Elk Drive, New Bremen, OH 45869 </br>   
+#### Where To Reach Me: </br>
+📬  5 Elk Drive </br>
+    New Bremen, OH 45869 </br>
 📧  angelinadye7@gmail.com </br>
 📱  419-790-3496 </br>
+<div href="https://www.linkedin.com/in/angelina-dye"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn"
+  <a href="https://github.com/adye7/ADyePortfolio.git"> <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github" </a>
+  <a href="https://www.coursera.org/learner/angelina-dye"> <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera </a>
+  <a img align="left" alt="Heading" width="200" height="200" src="Images/Ohio_Map.jpg"</a>
 </div>
-
-<div id="badges" align= "center"> 
-  <a href="https://www.linkedin.com/in/angelina-dye"> 
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn"
-  </a>
-  
-  <a href="https://github.com/adye7/ADyePortfolio.git">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github"
-  </a>
-  
-  <a href="https://www.coursera.org/learner/angelina-dye">
-    <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera"
-  </a>
-</div>
-<div align="right" img scr="Images/Ohio_Map.jpg"> </div>
-
