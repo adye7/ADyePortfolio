@@ -111,14 +111,13 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 
 
 #### Where To Reach Me: </br>
-<div img src= "Images/Open Mailbox with Raised Flag.png"> 
-  
-  height="30" align="start" text-align= "start"> 5 Elk Drive </br> New Bremen, OH 45869 </br>
-<img src= "Images/E-Mail.png" height="30" align="start" text-align= "start"> angelinadye7@gmail.com> </br>
-<img src= "Images/Mobile Phone.png" height="30" align="start text-align= "start"> 419-790-3496> </br>
-<img src= "Images/Laptop.png" height="30" align="start"> 
-<href="https://www.linkedin.com/in/angelina-dye"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin" text-align= "start"> LinkedIn 
-<href="https://github.com/adye7/ADyePortfolio.git"> <img src="https://i.sstatic.net/tskMh.png" alt="github" text-align= "start"> Github"
-<href="https://www.coursera.org/learner/angelina-dye"> <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20" text-align= "start"> Coursera 
+<div img src= "Images/Mailbox.png" height="30"> 5 Elk Drive </br> New Bremen, OH 45869 </br>
+  <img src= "Images/E-Mail.png" height="30"> angelinadye7@gmail.com> </br>
+  <img src= "Images/Mobile Phone.png" height="30"> 419-790-3496> </br>
+  <img src= "Images/Laptop.png" height="30"> </div>
+<div
+  <href="https://www.linkedin.com/in/angelina-dye"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn 
+  <href="https://github.com/adye7/ADyePortfolio.git"> <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github"
+  <href="https://www.coursera.org/learner/angelina-dye"> <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera 
 </div>
 
