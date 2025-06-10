@@ -111,7 +111,7 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 
 
 #### Where To Reach Me: </br>
-📬  5 Elk Drive </br>
+5 Elk Drive </br>
     New Bremen, OH 45869 </br>
 📧  angelinadye7@gmail.com </br>
 📱  419-790-3496 </br>
