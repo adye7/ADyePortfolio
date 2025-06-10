@@ -3,7 +3,7 @@
 A recently Certified Data Analyst, with a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.   
 
 
-## :file_folder: My Portfolio Includes:
+## <img src="Images/File Folder.png" height="40" align="center"/>  My Portfolio Includes: 
 <div id="links"> 
 * <a href="README.md"> <img src="Images/Open Book.png" height="50" align="center"> README </a> </br>
 * <a href="ADyeResume.pdf"> <img src="Images/Briefcase.png" height="50" align="center"> My Resume </a> </br>
@@ -111,12 +111,13 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 
 
 #### Where To Reach Me: </br>
-5 Elk Drive </br>
-    New Bremen, OH 45869 </br>
-📧  angelinadye7@gmail.com </br>
-📱  419-790-3496 </br>
-<div href="https://www.linkedin.com/in/angelina-dye"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn"
-  <a href="https://github.com/adye7/ADyePortfolio.git"> <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github" </a>
-  <a href="https://www.coursera.org/learner/angelina-dye"> <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera </a>
-  <a img align="left" alt="Heading" width="200" height="200" src="Images/Ohio_Map.jpg"</a>
+<div 
+<img src= "Images/Open Mailbox with Raised Flag.png" height="30" align="start"> 5 Elk Drive </br> New Bremen, OH 45869 </br>
+<img src= "Images/E-Mail.png" height="30" align="startt"/> angelinadye7@gmail.com> </br>
+<img src= "Images/Mobile Phone.png" height="30" align="start"/> 419-790-3496> </br>
+<img src= "Images/Laptop.png" height="30" align="start"> 
+<href="https://www.linkedin.com/in/angelina-dye"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn 
+<href="https://github.com/adye7/ADyePortfolio.git"> <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github"
+<href="https://www.coursera.org/learner/angelina-dye"> <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera 
 </div>
+
