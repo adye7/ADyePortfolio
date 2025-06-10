@@ -5,15 +5,14 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 
 ## :file_folder: My Portfolio Includes:
 <div id="links"> 
-* <a href="README.md"> :open_book: README </a> </br>
-* <a href="ADyeResume.pdf"> :briefcase: My Resume </a> </br>
-* <a href="Sex and Spatial Location Memory.pdf"> :mouse: Research Paper Sample (Sex and Spatial Location Memory) </a> </br>
-* <a href="Final-IBM-Capstone-Project-ADye-12-9.pdf"> :chart_with_upwards_trend: IBM Capstone Project </a> </br>
+* <a href="README.md"> <img src="Images/Open Book.png" height="50" align="center"> README </a> </br>
+* <a href="ADyeResume.pdf"> <img src="Images/Briefcase.png" height="50" align="center"> My Resume </a> </br>
+* <a href="Sex and Spatial Location Memory.pdf"> <img src="Images/Mouse Face.png" height="50" align="center"> Research Paper Sample (Sex and Spatial Location Memory) </a> </br>
+* <a href="Final-IBM-Capstone-Project-ADye-12-9.pdf"> <img src="Images/Chart Increasing.png" height="50" align="center"> IBM Capstone Project </a> </br>
 </div>
 
 ### Knowledgebase:
 #### Education
-
 <table>
   <tr>
     <td style="vertical-align: middle;">
@@ -111,16 +110,27 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 </table>
 
 <img align="left" alt="Heading" width="200" height="200" src="Images/Heron.gif"/>
+</br>
+</br>
 
-### How to reach me:
-📬  5 Elk Drive, New Bremen, OH 45869    
-📧  angelinadye7@gmail.com    
-📱  419-790-3496
-<div id="badges"> <a href="https://www.linkedin.com/in/angelina-dye"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn"</a>
-  <a href="[your-youtube-URL](https://github.com/adye7/ADyePortfolio.git)">
+<div align= "center"> Where To Reach Me: </br>
+📬  5 Elk Drive, New Bremen, OH 45869 </br>   
+📧  angelinadye7@gmail.com </br>
+📱  419-790-3496 </br>
+</div>
+
+<div id="badges" align= "center"> 
+  <a href="https://www.linkedin.com/in/angelina-dye"> 
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn"
+  </a>
+  
+  <a href="https://github.com/adye7/ADyePortfolio.git">
     <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github"
   </a>
+  
   <a href="https://www.coursera.org/learner/angelina-dye">
     <img src="https://images.credly.com/size/400x400/images/27654fce-fa93-4b09-87a0-e41a7557aed6/blob.png" width="20" height="20"> Coursera"
   </a>
 </div>
+<div align="right"> <img scr="Images/Ohio_Map.jpg"> </div>
+
