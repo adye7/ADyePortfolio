@@ -110,19 +110,10 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 </table>
 
 
-#### Where To Reach Me: </br>
-<p>
-  <img src="Images/Open%20Mailbox%20with%20Raised%20Flag.png" height="30" style="vertical-align: middle; margin-right: 10px;" />
-  <strong>5 Elk Drive, New Bremen, OH 45869</strong>
-</p>
-<p>
-  <img src="Images/E-Mail.png" height="30" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="position: relative; top: -4px;">angelinadye7@gmail.com</span>
-</p>
-<p>
-  <img src="Images/Mobile%20Phone.png" height="30" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="position: relative; top: -4px;">419-790-3496</span>
-</p>
+## Where To Reach Me: </br>
+<img src="Images/Mailbox.png" height="50" style="vertical-align: left; margin-right: 10px;" /> </br>
+<img src="Images/E-Mail.png" height="50" style="vertical-align: left; margin-right: 10px;" /> </br>
+<img src="Images/Mobile Phone.png" height="50" style="vertical-align: left; margin-right: 10px;" /> </br>
 <div id="profilelinks">
   <a href="https://www.linkedin.com/in/angelina-dye"> <img src="Images/LinkedInLogo.png" height="20" align="center"> LinkedIn </a>
   <a href="https://github.com/adye7/ADyePortfolio.git"> <img src="Images/GitHubIcon.png" height=20" align="center"> GitHub </a> 
