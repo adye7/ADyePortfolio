@@ -111,9 +111,9 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 
 
 ## Where To Reach Me: </br>
-<img src="Images/Mailbox.png" height="70" style="vertical-align: left; margin-right: 10px;" /> </br>
-<img src="Images/E-Mail.png" height="70" style="vertical-align: left; margin-right: 10px;" /> </br>
-<img src="Images/Mobile Phone.png" height="70" style="vertical-align: left; margin-right: 10px;" /> </br>
+<img src="Images/Contact.png" height="170" style="vertical-align: left; margin-right: 10px;" /> </br>
+<img src="Images/Ohio_Map.jpg" height="500" style="vertical-align: right; margin-left: 10px;" align="right"/>
+
 <div id="profilelinks">
   <a href="https://www.linkedin.com/in/angelina-dye"> <img src="Images/LinkedInLogo.png" height="20" align="center"> LinkedIn </a> &nbsp;&nbsp;
   <a href="https://github.com/adye7/ADyePortfolio.git"> <img src="Images/GitHubIcon.png" height=20" align="center"> GitHub </a> &nbsp;&nbsp;
