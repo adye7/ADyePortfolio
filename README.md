@@ -1,4 +1,5 @@
-# <img align="center" alt="Heading" width="800" height="200" src="Images/Flock - Copy - Copy.JPG"/>
+<div id="banner">
+<a img src="GitHubBanner.gif"> </a>
 
 A recently Certified Data Analyst, with a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.   
 
