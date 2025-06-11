@@ -1,4 +1,4 @@
-<img src="Images/GitHubBanner.gif" alt="Banner" height="371" width="1000" />
+<img src="Images/GitHubBanner.gif" alt="Banner" height="300" width="1000" />
 
 A recently Certified Data Analyst, with a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.   
 
@@ -110,7 +110,7 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 </table>
 
 
-## Where To Reach Me: </br> <a href="https://www.google.com/maps/place/New+Bremen,+OH/@40.4333718,-84.3972807,4584m/data=!3m2!1e3!4b1!4m6!3m5!1s0x883fac38aa9090c9:0x8c1268d37916a71e!8m2!3d40.4369919!4d-84.3796729!16zL20vMHlzeGM?entry=ttu&g_ep=EgoyMDI1MDYwOC4wIKXMDSoASAFQAw%3D%3D"> <img src="Images/Ohio_Map.jpg" height="700" style="vertical-align: start; " align="right"/> </href></br>
+## Where To Reach Me: </br> <a href="https://www.google.com/maps/place/New+Bremen,+OH/@40.4333718,-84.3972807,4584m/data=!3m2!1e3!4b1!4m6!3m5!1s0x883fac38aa9090c9:0x8c1268d37916a71e!8m2!3d40.4369919!4d-84.3796729!16zL20vMHlzeGM?entry=ttu&g_ep=EgoyMDI1MDYwOC4wIKXMDSoASAFQAw%3D%3D"> <img src="Images/Ohio_Map.jpg" height="550" width="600" style="vertical-align: start; " align="right"/> </href></br>
 <img src="Images/Contact.png" height="170" style="vertical-align: left; margin-right: 10px;" /> 
 
 </div>
