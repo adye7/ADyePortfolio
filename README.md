@@ -111,37 +111,21 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 
 
 #### Where To Reach Me: </br>
- <p align="left">
-  <img src="Images/Mailbox.png" height="30" style="vertical-align: start; margin-right: 20px; text-align: start" /> 5 Elk Drive <br/>
-  New Bremen, OH 45869
+<p>
+  <img src="Images/Open%20Mailbox%20with%20Raised%20Flag.png" height="30" style="vertical-align: middle; margin-right: 10px;" />
+  <strong>5 Elk Drive, New Bremen, OH 45869</strong>
 </p>
-<p align="left">
-  <img src="Images/E-Mail.png" height="30" style="vertical-align: start; margin-right: 20px; text-align: start" /> angelinadye7@gmail.com
+<p>
+  <img src="Images/E-Mail.png" height="30" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="position: relative; top: -4px;">angelinadye7@gmail.com</span>
 </p>
-<p align="left">
-  <img src="Images/Mobile%20Phone.png" height="30" style="vertical-align: start; margin-right: 20px; text-align: start;" />
-  419-790-3496
+<p>
+  <img src="Images/Mobile%20Phone.png" height="30" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="position: relative; top: -4px;">419-790-3496</span>
 </p>
-
 <div id="profilelinks">
   <a href="https://www.linkedin.com/in/angelina-dye"> <img src="Images/LinkedInLogo.png" height="20" align="center"> LinkedIn </a>
   <a href="https://github.com/adye7/ADyePortfolio.git"> <img src="Images/GitHubIcon.png" height=20" align="center"> GitHub </a> 
   <a href="https://www.coursera.org/learner/angelina-dye"> <img src="Images/Coursera.png" height="20" width="20" align="center"> Coursera </a>  
 </div>
-
-
-<p>
-  <img src="Images/Open%20Mailbox%20with%20Raised%20Flag.png" height="30" style="vertical-align: middle; margin-right: 8px;" />
-  <span style="vertical-align: middle;">5 Elk Drive, New Bremen, OH 45869</span>
-</p>
-
-<p>
-  <img src="Images/Email.png" height="30" style="vertical-align: middle; margin-right: 8px;" />
-  <span style="vertical-align: middle;">angelinadye7@gmail.com</span>
-</p>
-
-<p>
-  <img src="Images/Mobile%20Phone.png" height="30" style="vertical-align: middle; margin-right: 8px;" />
-  <span style="vertical-align: middle;">419-790-3496</span>
-</p>
 
