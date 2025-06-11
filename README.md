@@ -110,10 +110,10 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 </table>
 
 
-## Where To Reach Me: </br>
-<img src="Images/Contact.png" height="170" style="vertical-align: left; margin-right: 10px;" /> </br>
-<img src="Images/Ohio_Map.jpg" height="500" style="vertical-align: right; margin-left: 10px;" align="right"/>
+## Where To Reach Me: </br> <a href="https://www.google.com/maps/place/New+Bremen,+OH/@40.4333718,-84.3972807,4584m/data=!3m2!1e3!4b1!4m6!3m5!1s0x883fac38aa9090c9:0x8c1268d37916a71e!8m2!3d40.4369919!4d-84.3796729!16zL20vMHlzeGM?entry=ttu&g_ep=EgoyMDI1MDYwOC4wIKXMDSoASAFQAw%3D%3D"> <img src="Images/Ohio_Map.jpg" height="700" style="vertical-align: start; " align="right"/> </href></br>
+<img src="Images/Contact.png" height="170" style="vertical-align: left; margin-right: 10px;" /> 
 
+</div>
 <div id="profilelinks">
   <a href="https://www.linkedin.com/in/angelina-dye"> <img src="Images/LinkedInLogo.png" height="20" align="center"> LinkedIn </a> &nbsp;&nbsp;
   <a href="https://github.com/adye7/ADyePortfolio.git"> <img src="Images/GitHubIcon.png" height=20" align="center"> GitHub </a> &nbsp;&nbsp;
