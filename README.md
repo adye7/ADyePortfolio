@@ -1,4 +1,4 @@
-<img src="Images/GitHubBanner.gif" alt="Banner" height="300" width="1000" />
+<img src="Images/Banner.gif" alt="Banner" height="300" width="1000" />
 
 A recently Certified Data Analyst, with a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.   
 
