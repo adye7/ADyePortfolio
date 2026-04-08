@@ -5,7 +5,7 @@ A recently Certified Data Analyst, with a Bachelor's degree in Psychology with a
 ## <img src="Images/File Folder.png" height="40" align="center"/>  My Portfolio Includes: 
 <div id="links"> 
 * <a href="README.md"> <img src="Images/Open Book.png" height="50" align="center"> README </a> </br>
-* <a href="ADyeResume.pdf"> <img src="Images/Briefcase.png" height="50" align="center"> My Resume </a> </br>
+* <a href="DyeAngResume2026.pdf"> <img src="Images/Briefcase.png" height="50" align="center"> My Resume </a> </br>
 * <a href="Sex and Spatial Location Memory.pdf"> <img src="Images/Mouse Face.png" height="50" align="center"> Research Paper Sample (Sex and Spatial Location Memory) </a> </br>
 * <a href="Final-IBM-Capstone-Project-ADye-12-9.pdf"> <img src="Images/Chart Increasing.png" height="50" align="center"> IBM Capstone Project </a> </br>
 </div>
