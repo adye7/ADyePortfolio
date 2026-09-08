@@ -1,11 +1,11 @@
 <img src="Images/Banner.gif" alt="Banner" height="200" width="1000" />
 
-A recently Certified Data Analyst, with a Bachelor's degree in Psychology with an emphasis on Research and Data Analysis. I am fluent in Python, Advanced SQL & Excel, Power BI, and many more programs and tools. I am returning to the workforce after an extended leave and looking for a full-time remote/hybrid position.   
+Administrative Specialist and Certified Data Analyst, with a Bachelor’s Degree in Psychology seeking a full-time position. Strong background in design and execution of Research and Data Analysis. Thorough experience in office support and technology work, along with updated skills such as: Advanced Excel and SQL, Python, Power BI, Google Looker, IBM Cognos Analytics, and Microsoft Office Products.   
 
 ## <img src="Images/File Folder.png" height="40" align="center"/>  My Portfolio Includes: 
 <div id="links"> 
 * <a href="README.md"> <img src="Images/Open Book.png" height="50" align="center"> README </a> </br>
-* <a href="DyeAngResume2026.pdf"> <img src="Images/Briefcase.png" height="50" align="center"> My Resume </a> </br>
+* <a href="ADyeResume2026.pdf"> <img src="Images/Briefcase.png" height="50" align="center"> My Resume </a> </br>
 * <a href="Sex and Spatial Location Memory.pdf"> <img src="Images/Mouse Face.png" height="50" align="center"> Research Paper Sample (Sex and Spatial Location Memory) </a> </br>
 * <a href="Final-IBM-Capstone-Project-ADye-12-9.pdf"> <img src="Images/Chart Increasing.png" height="50" align="center"> IBM Capstone Project </a> </br>
 </div>
