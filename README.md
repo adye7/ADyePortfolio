@@ -116,6 +116,6 @@ Administrative Specialist and Certified Data Analyst, with a Bachelor’s Degree
 <div id="profilelinks">
   <a href="https://www.linkedin.com/in/angelina-dye"> <img src="Images/LinkedInLogo.png" height="20" align="center"> LinkedIn </a> &nbsp;&nbsp;
   <a href="https://github.com/adye7"> <img src="Images/GitHubIcon.png" height=20" align="center"> GitHub </a> &nbsp;&nbsp;
-  <a href="https://www.coursera.org/learner/angelina-dye"> <img src="Images/Coursera.png" height="20" width="20" align="center"> Coursera </a>  
+  <a href="https://www.credly.com/users/angelina-dye"> <img src="Images/Coursera.png" height="20" width="20" align="center"> Coursera </a>  
 </div>
 
